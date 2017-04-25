@@ -23,7 +23,7 @@
         {
             "id": "socket",
             "name": {
-                "en": "Plug in switch (Philio rebrand)"
+                "en": "Plug in switch"
             },
             "zwave": {
                 "manufacturerId": 316,
@@ -51,8 +51,7 @@
         {
             "id": "multisensor",
             "name": {
-                "en": "Multisensor",
-                "nl": "Multisensor"
+                "en": "4 in 1 multisensor"
             },
             "class": "sensor",
             "capabilities": [
