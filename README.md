@@ -7,6 +7,7 @@ However, due to some subtle devices differences this app was created in order to
 
 Supported devices:
 * Plug in switch
+* 4 in 1 multisensor
 
 Currently supported languages:
 * English
