@@ -93,6 +93,16 @@
                         "value": 54
                     },
                     {
+                        "id": 12,
+                        "size": 1,
+                        "value": 2
+                    },
+                    {
+                        "id": 13,
+                        "size": 1,
+                        "value": 2
+                    },
+                    {
                         "id": 21,
                         "size": 1,
                         "value": 36
@@ -257,7 +267,7 @@
                     "label": {
                         "en": "Auto report battery time"
                     },
-                    "value": 2,
+                    "value": 12,
                     "hint": {
                         "en": "The interval time for auto report the battery level. 0 means turn off auto report battery. The default value is 12. The tick time can setting by 'Auto Report Tick Interval'. *default is 12*"
                     }
@@ -272,7 +282,7 @@
                     "label": {
                         "en": "Auto report contact state time"
                     },
-                    "value": 2,
+                    "value": 12,
                     "hint": {
                         "en": "The interval time for auto report the contact state. 0 means turn off auto report contact state. The default value is 12. The tick time can setting by 'Auto Report Tick Interval'. *default is 12*"
                     }
