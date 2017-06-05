@@ -23,7 +23,7 @@
         {
             "id": "socket",
             "name": {
-                "en": "Plug in switch"
+                "en": "Plug In Switch"
             },
             "zwave": {
                 "manufacturerId": 316,
@@ -51,7 +51,7 @@
         {
             "id": "multisensor",
             "name": {
-                "en": "4 in 1 multisensor"
+                "en": "4 in 1 Multisensor"
             },
             "class": "sensor",
             "capabilities": [
